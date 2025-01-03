@@ -45,3 +45,10 @@ After the plotting and visualization, I applied t-test and calculated the p-valu
 ## **RESULTS**
 
 Since the p-value acquired through t-test is greater than 0.05, we have insufficient evidence to reject the null hypothesis. Regarding the test outcomes, I am not able to reject the null hypothesis. This tells us that acquiring new content for PS4 does not have a significant effect on the steps that I take.
+
+
+## **LIMITATIONS AND FUTURE WORK**
+
+Sometimes when it was a national holiday, even right after I purchase anything, we would go see my grandparents. Because of this and similar reasons I might have been affected by my purchase after a week later. 
+
+Even though all the data and test results show otherwise, deep down in my heart I believe my alternative hypothesis was correct. So maybe instead of a window of 4 days, different amount of days may even change the result.
