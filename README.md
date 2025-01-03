@@ -1,6 +1,6 @@
 # DSA210-24-Fall-term-project
 
-## **INTRODUCTION**
+## **INTRODUCTION AND MOTIVATION**
 
 Until I started to study for the university entrance exam, I used to spend a lot of time with my Playstation 4. But especially after I started university my hours in front of the TV started to drop. At least it feels like it. So the aim of this project is to analyze the data which I collected from Sony and Apple Health and to investigate if they have any correlation with each other. The hypothesis is that whenever I acquired new content to play with on my PS4 it would affect my steps taken and decrease it for 4 days after the purchase.
 
