@@ -102,7 +102,7 @@ plt.savefig('histogram.png')
 plt.show()
 
 
-# Perform a one-sample t-test on the 'Change in Step Count' column
+# Perform a t-test on the 'Change in Step Count'
 t_stat, p_value = stats.ttest_1samp(results_df['Change in Step Count'], 0)
 
 # Print t-statistic and p-value
