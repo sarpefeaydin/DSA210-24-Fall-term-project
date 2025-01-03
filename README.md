@@ -5,3 +5,6 @@ Both the data from Sony and the data from Apple Health were easy to access. I do
 
 Since I did not have a phone until high school, I have health data starting from 06-12-2017. That's why I only use the data from Sony starting from that date. Fortunately before that date there are not many data to begin with. There is also a time period starting from 14-02-2022 to 18-06-2022 which I did not use my phone at all while studying for the university entrance exam. The data during that time can be misleading because steps taken during that period are either 0 or completely blank. In order to aviod confusion I excluded that data. The tricky part is that Apple Health app exports the data in a messy .xml format so it needs cleaning and organizing. In order to get the simple and clean data I needed, I used an app called "Health Export" from the app store which basically converts the data into the format I can use. I combined the two datasets in one .xlsx file. After the operations data were ready to be analyzed.
 
+![scatter_plot](https://github.com/user-attachments/assets/1cb9d630-650b-4cc4-b1fc-fa2351a3cc5d)
+![histogram](https://github.com/user-attachments/assets/232ad451-bfd4-442b-83d0-17ef4ae7e594)
+![bar_plot_with_average_line](https://github.com/user-attachments/assets/d0b31c69-a65e-4806-8aaf-c6ca6056f358)
