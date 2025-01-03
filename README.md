@@ -37,10 +37,11 @@ A bar plot with axes of "Steps" and "Transaction Date", showing the overall aver
 
 
 After the plotting and visualization, I applied t-test and calculated the p-value using scipy library in order to see if I am able to reject the null hypothesis, which states that acquiring new content for PS4 has no effect on daily steps taken.
+
 <img width="723" alt="Screenshot 2025-01-03 at 18 35 11" src="https://github.com/user-attachments/assets/c840de00-0634-4a60-be62-21aeb0f5d1f7" />
 
 
 
 ## **RESULTS**
 
-Regarding the test outcomes, I am not able to reject the null hypothesis. This tells us that acquiring new content for PS4 does not have a significant effect on the steps that I take.
+Since the p-value acquired through t-test is greater than 0.05, we have insufficient evidence to reject the null hypothesis. Regarding the test outcomes, I am not able to reject the null hypothesis. This tells us that acquiring new content for PS4 does not have a significant effect on the steps that I take.
