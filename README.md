@@ -12,12 +12,13 @@ There are 77 different days with any type of purchase. Overall average steps tak
 A scatter plot with axes of "Change in Step Count" and "Transaction Date" regarding the types of transactions:
 ![scatter_plot](https://github.com/user-attachments/assets/1cb9d630-650b-4cc4-b1fc-fa2351a3cc5d)
 
-A histogram of distribution of step coun changes with axes of "Frequency" and "Change in Step Count":
+A histogram of distribution of step count changes with axes of "Frequency" and "Change in Step Count":
 ![histogram](https://github.com/user-attachments/assets/232ad451-bfd4-442b-83d0-17ef4ae7e594)
 
 A bar plot with axes of "Steps" and "Transaction Date", showing the overall average steps taken and post-transaction average of 4 days after the transaction.
 ![bar_plot_with_average_line](https://github.com/user-attachments/assets/d0b31c69-a65e-4806-8aaf-c6ca6056f358)
 
-After the plotting and visualization, I also applied t-test and calculated the p-value in order to see if I am able to reject the null hypothesis, which states that acquiring new content for PS4 has no effect on daily steps taken. 
+After the plotting and visualization, I applied t-test and calculated the p-value using scipy library in order to see if I am able to reject the null hypothesis, which states that acquiring new content for PS4 has no effect on daily steps taken.
 <img width="723" alt="Screenshot 2025-01-03 at 18 35 11" src="https://github.com/user-attachments/assets/c840de00-0634-4a60-be62-21aeb0f5d1f7" />
 
+Regarding the test outcomes, I am not able to reject the null hypothesis. This tells us that acquiring new content for PS4 does not have a significant effect on the steps that I take.
